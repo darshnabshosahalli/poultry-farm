@@ -1,0 +1,5 @@
+.tab-close-button {
+-fx-background-color: transparent;
+-fx-shape:null;
+-fx-background-image: url("FEEDICON.jpg");
+}

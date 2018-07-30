@@ -1,0 +1,137 @@
+#feedlabel{
+    -fx-font-size: 30px;
+   -fx-font-family: "Arial Black";
+   -fx-fill: #818181;
+   
+}
+#medicinelabel{
+    -fx-font-size: 30px;
+   -fx-font-family: "Arial Black";
+   -fx-fill: #818181;
+   
+}
+#birdlabel{
+    -fx-font-size: 30px;
+   -fx-font-family: "Arial Black";
+   -fx-fill: #818181;
+   
+}
+#egglabel{
+    -fx-font-size: 30px;
+   -fx-font-family: "Arial Black";
+   -fx-fill: #818181;
+   
+}
+#feedtypelabel{
+  -fx-font-size: 20px;
+   -fx-font-family: "Arial Black";
+   -fx-fill: #818181;  
+}
+#feedquantitylabel{
+  -fx-font-size: 20px;
+   -fx-font-family: "Arial Black";
+   -fx-fill: #818181;  
+}
+#feedDatelabel{
+  -fx-font-size: 20px;
+   -fx-font-family: "Arial Black";
+   -fx-fill: #818181;  
+}
+#feedShedlabel{
+  -fx-font-size: 20px;
+   -fx-font-family: "Arial Black";
+   -fx-fill: #818181;  
+}
+#feedpurchasebutton{
+  -fx-font-size: 20px;
+  -fx-font-family: "Times New Roman";
+  -fx-pref-width: 220;
+  -fx-pref-height:10;  
+}
+#tab0{
+    
+   -fx-pref-width: 250;
+   -fx-pref-height:150;
+   -fx-background-image:url("FEEDICON.jpg"); 
+   -fx-background-size: cover;
+   -fx-background-repeat: stretch;   
+   -fx-background-position: center center;
+} 
+#tab1{
+    
+   -fx-pref-width: 250;
+   -fx-pref-height:150;
+   -fx-background-image:url("MEDICINE.jpg");
+   -fx-background-size: cover;
+   -fx-background-repeat: stretch;   
+   -fx-background-position: center center;
+}
+#tab2{
+    
+   -fx-pref-width: 250;
+   -fx-pref-height:150;
+   -fx-background-image:url("BIRDICON.jpg");
+   -fx-background-size: cover;
+   -fx-background-repeat: stretch;   
+   -fx-background-position: center center;
+}
+#tab3{
+    
+   -fx-pref-width: 250;
+   -fx-pref-height:150;
+   -fx-background-image:url("EGGICON.jpg");
+   -fx-background-size: cover;
+   -fx-background-repeat: stretch;   
+   -fx-background-position: center center;
+}
+#hbox0{
+    
+   -fx-background-color:white;
+   -fx-background-image:url("back.jpg");
+   -fx-background-size: cover;
+   -fx-background-repeat: stretch;   
+   -fx-background-position: center center;
+}
+#hbox1{
+    
+   -fx-background-color:white;
+   -fx-background-image:url("back.jpg");
+   -fx-background-size: cover;
+   -fx-background-repeat: stretch;   
+   -fx-background-position: center center;
+}
+#hbox2{
+    
+  -fx-background-color:white;
+  -fx-background-image:url("back.jpg");
+   -fx-background-size: cover;
+   -fx-background-repeat: stretch;   
+   -fx-background-position: center center;
+}
+#hbox3{
+    
+   -fx-background-color:white;
+   -fx-background-image:url("back.jpg");
+   -fx-background-size: cover;
+   -fx-background-repeat: stretch;   
+   -fx-background-position: center center;
+}
+#insert{
+   -fx-pref-width: 80;
+   -fx-pref-height:20; 
+   -fx-font-family: "Arial Black";
+   -fx-font-size: 14px;
+}
+#searchbutton{
+   -fx-pref-width: 80;
+   -fx-pref-height:20; 
+   -fx-font-family: "Arial Black";
+   -fx-font-size: 14px;
+}
+.tab-header-background{
+    -fx-background-color:lightgray;
+ }
+
+.tab-pane{
+    -fx-padding: 0 -1 -1 -1
+}
